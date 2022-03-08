@@ -1,0 +1,365 @@
+.portfolio #portfolio-img{
+    margin-top: 100px;
+    margin-left: 570px;
+}
+.portfolio h1{
+    margin-left: 630px;
+    margin-top: -40px;
+    font-size: 28px;
+    padding-bottom: 60px;
+}
+.row4 {
+    float:left;
+    width: 50%;
+}
+.row4 img{
+    margin-left: 550px;
+    cursor: pointer;
+}
+.row4 h1{
+    margin-left: 570px;
+    /* color: #FCD02C; */
+    cursor: pointer;
+}
+/* .row4 .circle{
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color:#FCD02C;
+    margin-left: 590px;
+    background-color: #FCD02C;
+} */
+
+
+.row5 {
+   float: left;
+   width: 50%;
+}
+.row5 img{
+    cursor: pointer;
+}
+.row5 h1{
+    cursor: pointer;
+    color: #FCD02C;
+}
+.row5 .circle{
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color:#FCD02C;
+    margin-left:40px;
+    background-color: #FCD02C;
+}
+
+.col1{
+    float: left;
+    width: 33.33%;
+    margin-top: 50px;
+}
+.col1 img{
+    margin-left: 148px;
+    width: 364.03px;
+    height: 186.4px;
+}
+.col1 h1{
+    margin-left: 148px;
+    font-size: 19px;
+}
+.col1 p{
+    margin-left: 148px;
+    font-size: 18px;
+}
+.col1 button{
+    margin-left: 148px;
+    border: none;
+    background-color: white;
+    font-size: 18px;
+    color: #FCD02C;
+    padding-bottom: 50px;
+}
+.col1 button:hover{
+    cursor: pointer;
+}
+.col2{
+    float: left;
+    width: 33.33%;
+    margin-top: 50px;
+}
+.col2 img{
+    margin-left: 70px;
+    width: 364.03px;
+    height: 186.4px;
+}
+.col2 h1{
+    margin-left: 70px;
+    font-size: 19px;
+}
+.col2 p{
+    margin-left: 70px;
+    font-size: 18px;
+    margin-right: 100px;
+}
+.col2 button{
+    margin-left: 70px;
+    border: none;
+    background-color: white;
+    font-size: 18px;
+    color: #FCD02C;
+    padding-bottom: 70px;
+}
+.col2 button{
+    cursor: pointer;
+}
+
+
+.col3{
+    float: left;
+    width:33.33%;
+    margin-top: 50px;
+}
+.col3 img{
+    margin-right: 130px;
+    width: 364.03px;
+    height: 186.4px;
+}
+.col3 h1{
+    margin-right: 130px;
+    font-size: 19px;
+}
+.col3 p{
+    margin-right: 130px;
+    font-size: 18px;
+    margin-right: 120px;
+}
+.col3 button{
+    margin-right: 30px;
+    border: none;
+    background-color: white;
+    font-size: 18px;
+    color: #FCD02C;
+    padding-bottom: 70px;
+}
+.col3 button:hover{
+    cursor: pointer;
+}
+
+.collaborate{
+    float: left;
+    width: 100%;
+    height: 699px;
+    background-color: #F7F8F7;
+}
+.collaborate img{
+    margin-left: 210px;
+    margin-top: 60px;
+}
+.collaborate h1{
+    margin-left: 280px;
+    margin-top: -50px;
+    font-size: 28px;
+}
+.collaborate p{
+    margin-left: 320px;
+    margin-top: 50px;
+    font-size: 20px;
+    padding-bottom: 30px;
+    
+}
+.collaborate .experience{
+    float: left;
+    width: 33.33%;
+    margin-top: 60px;
+    
+}
+.collaborate .experience img{
+    margin-top: -30px;
+    height: 63.29px;
+    width: 63.29px;
+}
+.collaborate .experience h1{
+    margin-left: 300px;
+    margin-top: -50px;
+    font-size: 20px;
+}
+.collaborate .experience p{
+    margin-left: 300px;
+    margin-top: 0px;
+    font-size: 18px;
+    margin-right: -35px;
+}
+
+.collaborate .talent{
+    float:left;
+    width: 33.33%;
+    margin-top: 60px;
+}
+
+.collaborate .talent img{
+    width:63.29px ;
+    height: 63.29px;
+    margin-top: -30px;
+    
+}
+.collaborate .talent h1{
+    font-size: 20px;
+    padding-top: -10px;
+    
+    
+}
+.collaborate .talent p{
+    font-size: 18px;
+    margin-left: 285px;
+    margin-top: -5px;
+    
+}
+.collaborate .talent button{
+    margin-left: 210px;
+    margin-top: 30px;
+    width: 339.27px;
+    height: 62px;
+    border-radius: 5px;
+    color: black;
+    background-color: #FCD02C;
+    font-size: 20px;
+    font-weight: 600;
+
+
+}
+.collaborate .talent button:hover{
+    cursor: pointer;
+}
+
+
+.collaborate .pricing{
+    float: left;
+    width: 33.33%;
+    margin-top: 60px;
+}
+.collaborate .pricing img{
+    width: 63.29px;
+    height: 63.29px;
+    margin-top: -200px;
+    margin-left: 80px;
+    
+}
+.collaborate .pricing h1{
+    font-size: 20px;
+    margin-left: 160px;
+    margin-top: -40px;
+    
+}
+.collaborate .pricing p{
+    font-size: 18px;
+    margin-left: 160px;
+    margin-top: -5px;
+    margin-right: 100px;
+}
+
+.developer-skill img{
+
+    margin-top: 50px;
+    margin-left: 380px;
+
+}
+.developer-skill h1{
+    font-size: 28px;
+    margin-left: 450px;
+    margin-top: -40px;
+}
+.developer-skill p{
+    font-size: 20px;
+    margin-left: 440px;
+    margin-top: 40px;
+    padding-bottom: 50px;
+}
+
+.skill-developer1{
+    float: left;
+    width: 50%;
+    
+}
+.skill-developer1 img{
+    margin-left: 150px;
+    width: 74px;
+    height: 74px;
+}
+.skill-developer1 h1{
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: -70px;
+}
+.skill-developer1 p{
+    font-size: 18px;
+    margin-left: 250px;
+    margin-right: 70px;
+    padding-bottom: 50px;
+}
+.skill-developer2{
+    float:left;
+    width: 50%;
+    
+}
+.skill-developer2 img{
+    width: 74px;
+    height: 74px;
+}
+.skill-developer2 h1{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: -70px;
+}
+.skill-developer2 p{
+    font-size: 18px;
+    margin-left: 100px;
+    margin-right: 250px;
+    padding-bottom: 60px;
+
+}
+
+.consultation{
+    float: left;
+    width: 1440px;
+    height: 423px;
+    background-image: url(../Images/Group\ 13575.png);
+    margin-left: 40px;
+
+}
+.consultation h1{
+    font-size: 25px;
+    margin-left: 300px;
+    margin-top: 140px;
+}
+.consultation p{
+    font-size: 18px;
+    margin-left: 400px;
+    margin-top: 40px;
+}
+.consultation button{
+    margin-left: 500px;
+    width: 310.58px;
+    height: 61px;
+    background-color: #150734;
+    color: white;
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: 30px;
+}
+.consultation button:hover{
+    cursor: pointer;
+}
+.compatible-react{
+    float: left;
+    width: 100%;
+   
+}
+.compatible-react img{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.compatible-react h1{
+    font-size: 28px;
+    margin-left: 330px;
+    margin-top: -40px;
+}

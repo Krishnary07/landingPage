@@ -1,0 +1,136 @@
+.slider1{
+   float: left;
+   width: 35%;
+   margin-left: 250px;
+   height: 443px;
+   background-color: #FCD02C;
+   border-radius: 5px;
+}
+.slider1 h1{
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 28px;
+}
+.slider1 p{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-right: 100px;
+}
+.slider2{
+    float: left;
+    width: 35%;
+    height: 443px;
+    
+    border:1px solid #FCD02C;
+    height: 443px;
+    border-radius: 10px;
+    
+}
+.slider2 img{
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 74px;
+    height:74px ;
+}
+.slider2 h1{
+    font-size: 28px;
+    margin-left: 150px;
+    margin-top: -70px;
+
+}
+.slider2 p{
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 150px;
+    margin-right: 60px;
+    margin-top: -5px;
+    padding-bottom: 30px;
+}
+.slider2 #btn1{
+    margin-left: 200px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background: none;
+    border:1px solid black;
+    font-size: 28px;
+    
+    
+}
+.slider2 #btn1:hover{
+    cursor: pointer;
+}
+.slider2 #btn2{
+    border:  1px solid #FCD02C ;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 28px;
+    color: #FCD02C;
+    background: none;
+    
+
+
+}
+.slider2 #btn2:hover{
+    cursor: pointer;
+}
+
+.security{
+    float: left;
+    width:100%;
+    margin-top:  80px;
+}
+.security img{
+    margin-left: 450px;
+    width: 45.31px;
+    height: 47.76px;
+}
+.security h1{
+    font-size: 28px;
+    margin-left: 520px;
+    margin-top: -45px;
+    padding-bottom: 80px;
+    
+
+}
+.security-enhance{
+    float: left;
+    width: 50%;
+}
+.security-enhance h1{
+    font-size: 20px;
+    margin-left: 150px;
+}
+.security-enhance p{
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 150px;
+    margin-right: 50px;
+}
+.security-enhance2{
+    float: left;
+    width: 50%;
+}
+.security-enhance2 img{
+    margin-left: 200px;
+    width: 546.12px;
+    height: 453.64px;
+    padding-bottom: 80px;
+}
+.FAQ{
+    float: left;
+    width: 100%;
+}
+.FAQ img{
+    width: 25.43px;
+    height: 25.43px;
+    margin-left: 550px;
+}
+.FAQ h1{
+    font-size: 25px;
+    margin-left: 600px;
+    margin-top: -30px;
+}

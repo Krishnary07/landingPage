@@ -1,0 +1,168 @@
+.footer{
+    float: left;
+    width: 20%; 
+    height: 300px;
+    background-color: #F6F9FC;   
+}
+.footer img{
+    margin-left: 145px;
+}
+.footer h3{
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 145px;
+    padding: 10px;
+}
+.offering{
+    float: left;
+    width: 20%;
+    height: 300px;
+    background-color: #F6F9FC;
+}
+.offering h1{
+    font-size: 18px;
+    margin-left: 60px;
+    padding-bottom: 20px;
+}
+.offering h3{
+    font-size: 17px;
+    font-weight: 300;
+    margin-left: 60px;
+    padding: 10px;
+}
+.android{
+    float: left;
+    width: 20%;
+    height: 300px;
+    background-color: #F6F9FC;
+}
+.android h3{
+    font-size: 17px;
+    font-weight: 300;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.android h1{
+    font-size: 17px;
+    font-weight: 300;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.company{
+    float: left;
+    width: 20%;
+    height: 300px;
+    background-color: #F6F9FC;
+}
+.company h1{
+    font-size: 20px;
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+.company h3{
+    font-size: 17px;
+    margin-left: 50px;
+    font-weight: 300;
+    margin-top: 30px;
+}
+.location{
+    float: left;
+    width: 20%;
+    height: 300px;
+    background-color: #F6F9FC;
+}
+.location h1{
+    font-size: 20px;
+
+}
+.location img{
+    width: 24.61px;
+    height: 24.61px;
+    display: flex;
+    padding-top: 25px;
+}
+.location h3{
+    font-size: 17px;
+    font-weight: 300;
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+.location h2{
+    font-size: 17px;
+    font-weight: 300;
+    margin-left: 50px;
+    margin-top: -170px;
+}
+
+.wrapper{
+    float: left;
+    width: 100%;
+    height: 160px;
+    background-color:#F6F9FC;
+    flex: 20;
+}
+.wrapper h1{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 145px;
+}
+.circle1 ,.circle1:hover{
+    height: 66.1px;
+    width: 66.1px;
+    cursor: pointer;
+   
+    border-radius: 50%;
+    float: left;
+    margin-left: 135px;
+    margin-top: 10px;
+   
+    
+}
+.circle2,.circle2:hover{
+    height: 66.1px;
+    width: 66.1px;
+    cursor: pointer;
+    
+    border-radius: 50%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+   
+    
+}
+.circle3,.circle3:hover{
+    height: 66.1px;
+    width: 66.1px;
+    cursor: pointer;
+    
+    border-radius: 50%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+    
+}
+.circle4,.circle4:hover{
+    height: 66.1px;
+    width: 66.1px;
+    cursor: pointer;
+    
+    border-radius: 50%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+    
+}
+.circle5,.circle2:hover{
+    height: 66.1px;
+    width: 66.1px;
+    cursor: pointer;
+    border-radius: 50%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+    
+    
+}
